@@ -1,0 +1,15 @@
+.li-tab {
+  color: #7b8794;
+  font-size: 14px;
+}
+.btn{
+  width: 100px;
+
+}
+.select {
+  color: blue;
+  border-bottom: 2px solid blue;
+}
+.unselect {
+  color: black;
+}
